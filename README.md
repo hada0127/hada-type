@@ -35,9 +35,12 @@ Direct WOFF2 example:
 
 ## Packages
 
-- https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.09.01/packages/HadaSans.zip
-- https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.09.01/packages/HadaBatang.zip
-- https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.09.01/packages/DancingPeoples.zip
+ZIP packages are attached to the GitHub release because the Hada Sans
+bundle is larger than jsDelivr's GitHub single-file limit.
+
+- https://github.com/hada0127/hada-type/releases/download/v2026.09.01/HadaSans.zip
+- https://github.com/hada0127/hada-type/releases/download/v2026.09.01/HadaBatang.zip
+- https://github.com/hada0127/hada-type/releases/download/v2026.09.01/DancingPeoples.zip
 
 Each ZIP includes TTF, OTF, WOFF2, `WEBFONT.css`, `WEBFONT-USAGE.txt`,
 `LICENSE.txt`, and `COPYRIGHT.txt`.
