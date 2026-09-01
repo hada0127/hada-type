@@ -35,15 +35,17 @@ Direct WOFF2 example:
 
 ## Packages
 
-ZIP packages are attached to the GitHub release because the Hada Sans
-bundle is larger than jsDelivr's GitHub single-file limit.
+ZIP packages are attached to the GitHub release and split by format.
 
-- https://github.com/hada0127/hada-type/releases/download/v2026.09.01/HadaSans.zip
-- https://github.com/hada0127/hada-type/releases/download/v2026.09.01/HadaBatang.zip
-- https://github.com/hada0127/hada-type/releases/download/v2026.09.01/DancingPeoples.zip
+| Family | TTF | OTF | WOFF2 |
+| --- | --- | --- | --- |
+| Hada Sans | [HadaSans-TTF.zip](https://github.com/hada0127/hada-type/releases/download/v2026.09.01/HadaSans-TTF.zip) | [HadaSans-OTF.zip](https://github.com/hada0127/hada-type/releases/download/v2026.09.01/HadaSans-OTF.zip) | [HadaSans-WOFF2.zip](https://github.com/hada0127/hada-type/releases/download/v2026.09.01/HadaSans-WOFF2.zip) |
+| Hada Batang | [HadaBatang-TTF.zip](https://github.com/hada0127/hada-type/releases/download/v2026.09.01/HadaBatang-TTF.zip) | [HadaBatang-OTF.zip](https://github.com/hada0127/hada-type/releases/download/v2026.09.01/HadaBatang-OTF.zip) | [HadaBatang-WOFF2.zip](https://github.com/hada0127/hada-type/releases/download/v2026.09.01/HadaBatang-WOFF2.zip) |
+| Dancing Peoples | [DancingPeoples-TTF.zip](https://github.com/hada0127/hada-type/releases/download/v2026.09.01/DancingPeoples-TTF.zip) | [DancingPeoples-OTF.zip](https://github.com/hada0127/hada-type/releases/download/v2026.09.01/DancingPeoples-OTF.zip) | [DancingPeoples-WOFF2.zip](https://github.com/hada0127/hada-type/releases/download/v2026.09.01/DancingPeoples-WOFF2.zip) |
 
-Each ZIP includes TTF, OTF, WOFF2, `WEBFONT.css`, `WEBFONT-USAGE.txt`,
-`LICENSE.txt`, and `COPYRIGHT.txt`.
+Each ZIP includes `WEBFONT-USAGE.txt`, `LICENSE.txt`, and
+`COPYRIGHT.txt`. WOFF2 ZIPs also include `WEBFONT.css` for self-hosted
+webfont use.
 
 ## License
 
