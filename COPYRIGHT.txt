@@ -1,0 +1,9 @@
+Copyright 2026 Hada Type Foundry.
+Copyright 2024 Wanted Lab, Inc.
+Copyright 2023 Kil Hyung-jin.
+Copyright 2022 Sun.
+Copyright 2014-2021 Adobe.
+Copyright 2019 eBay Korea Co., Ltd.
+
+The notices above are retained to satisfy the SIL Open Font License 1.1
+for the Font Software components used by the reproducible build.
