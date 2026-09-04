@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "Hada Mono";
+  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.09.05/fonts/hada-mono/woff2/HadaMono-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Hada Mono";
+  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.09.05/fonts/hada-mono/woff2/HadaMono-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}

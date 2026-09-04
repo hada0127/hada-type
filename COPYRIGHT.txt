@@ -4,6 +4,11 @@ Copyright 2023 Kil Hyung-jin.
 Copyright 2022 Sun.
 Copyright 2014-2021 Adobe.
 Copyright 2019 eBay Korea Co., Ltd.
+Copyright Ridi Corporation.
+Copyright 2016 Iropke.
+Copyright NAVER Corp. and Naver Culture Foundation.
+Copyright 2021 Yanghee Ryu.
+Copyright 2015-2026 Belleve Invis.
 
 The notices above are retained to satisfy the SIL Open Font License 1.1
 for the Font Software components used by the reproducible build.

@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Hada Sans";
-  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.09.04/fonts/hada-sans/woff2/HadaSans-Thin.woff2") format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.09.05/fonts/hada-sans/woff2/HadaSans-Thin.woff2") format("woff2");
   font-weight: 100;
   font-style: normal;
   font-display: swap;
@@ -8,7 +8,7 @@
 
 @font-face {
   font-family: "Hada Sans";
-  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.09.04/fonts/hada-sans/woff2/HadaSans-ExtraLight.woff2") format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.09.05/fonts/hada-sans/woff2/HadaSans-ExtraLight.woff2") format("woff2");
   font-weight: 200;
   font-style: normal;
   font-display: swap;
@@ -16,7 +16,7 @@
 
 @font-face {
   font-family: "Hada Sans";
-  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.09.04/fonts/hada-sans/woff2/HadaSans-Light.woff2") format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.09.05/fonts/hada-sans/woff2/HadaSans-Light.woff2") format("woff2");
   font-weight: 300;
   font-style: normal;
   font-display: swap;
@@ -24,7 +24,7 @@
 
 @font-face {
   font-family: "Hada Sans";
-  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.09.04/fonts/hada-sans/woff2/HadaSans-Regular.woff2") format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.09.05/fonts/hada-sans/woff2/HadaSans-Regular.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -32,7 +32,7 @@
 
 @font-face {
   font-family: "Hada Sans";
-  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.09.04/fonts/hada-sans/woff2/HadaSans-Medium.woff2") format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.09.05/fonts/hada-sans/woff2/HadaSans-Medium.woff2") format("woff2");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -40,7 +40,7 @@
 
 @font-face {
   font-family: "Hada Sans";
-  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.09.04/fonts/hada-sans/woff2/HadaSans-SemiBold.woff2") format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.09.05/fonts/hada-sans/woff2/HadaSans-SemiBold.woff2") format("woff2");
   font-weight: 600;
   font-style: normal;
   font-display: swap;
@@ -48,7 +48,7 @@
 
 @font-face {
   font-family: "Hada Sans";
-  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.09.04/fonts/hada-sans/woff2/HadaSans-Bold.woff2") format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.09.05/fonts/hada-sans/woff2/HadaSans-Bold.woff2") format("woff2");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
@@ -56,7 +56,7 @@
 
 @font-face {
   font-family: "Hada Sans";
-  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.09.04/fonts/hada-sans/woff2/HadaSans-ExtraBold.woff2") format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.09.05/fonts/hada-sans/woff2/HadaSans-ExtraBold.woff2") format("woff2");
   font-weight: 800;
   font-style: normal;
   font-display: swap;
@@ -64,7 +64,7 @@
 
 @font-face {
   font-family: "Hada Sans";
-  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.09.04/fonts/hada-sans/woff2/HadaSans-Black.woff2") format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.09.05/fonts/hada-sans/woff2/HadaSans-Black.woff2") format("woff2");
   font-weight: 900;
   font-style: normal;
   font-display: swap;
@@ -72,15 +72,111 @@
 
 @font-face {
   font-family: "Hada Batang";
-  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.09.04/fonts/hada-batang/woff2/HadaBatang%5BWeight%5D.woff2") format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.09.05/fonts/hada-batang/woff2/HadaBatang%5BWeight%5D.woff2") format("woff2");
   font-weight: 400 700;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
+  font-family: "Hada Mono";
+  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.09.05/fonts/hada-mono/woff2/HadaMono-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Hada Mono";
+  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.09.05/fonts/hada-mono/woff2/HadaMono-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Hada Round";
+  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.09.05/fonts/hada-round/woff2/HadaRound-Light.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Hada Round";
+  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.09.05/fonts/hada-round/woff2/HadaRound-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Hada Round";
+  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.09.05/fonts/hada-round/woff2/HadaRound-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Hada Round";
+  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.09.05/fonts/hada-round/woff2/HadaRound-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Hada Round";
+  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.09.05/fonts/hada-round/woff2/HadaRound-Black.woff2") format("woff2");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Hada Condensed";
+  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.09.05/fonts/hada-condensed/woff2/HadaCondensed-Light.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Hada Condensed";
+  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.09.05/fonts/hada-condensed/woff2/HadaCondensed-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Hada Condensed";
+  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.09.05/fonts/hada-condensed/woff2/HadaCondensed-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Hada Condensed";
+  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.09.05/fonts/hada-condensed/woff2/HadaCondensed-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Hada Condensed";
+  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.09.05/fonts/hada-condensed/woff2/HadaCondensed-ExtraBold.woff2") format("woff2");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
   font-family: "Dancing Peoples";
-  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.09.04/fonts/dancing-peoples/woff2/DancingPeoples%5BDance%5D.woff2") format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.09.05/fonts/dancing-peoples/woff2/DancingPeoples%5BDance%5D.woff2") format("woff2");
   font-weight: 800;
   font-style: normal;
   font-display: swap;

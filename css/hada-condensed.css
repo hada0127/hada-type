@@ -1,0 +1,39 @@
+@font-face {
+  font-family: "Hada Condensed";
+  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.09.05/fonts/hada-condensed/woff2/HadaCondensed-Light.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Hada Condensed";
+  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.09.05/fonts/hada-condensed/woff2/HadaCondensed-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Hada Condensed";
+  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.09.05/fonts/hada-condensed/woff2/HadaCondensed-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Hada Condensed";
+  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.09.05/fonts/hada-condensed/woff2/HadaCondensed-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Hada Condensed";
+  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.09.05/fonts/hada-condensed/woff2/HadaCondensed-ExtraBold.woff2") format("woff2");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
