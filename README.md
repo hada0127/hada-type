@@ -1,10 +1,22 @@
 # Hada Type
 
+[Hada Type](https://type.hada0127.net) — 한글·라틴 오픈 폰트 / Korean & Latin open fonts, SIL Open Font License 1.1.
+
 Public distribution files for Hada Type fonts.
 
 This repository contains completed font artifacts only. The source build
 repository is private, so production web projects should load these files
 through jsDelivr's GitHub CDN endpoint.
+
+## Families
+
+- [Hada Sans](https://type.hada0127.net/hada-sans) — 화면용 산세리프
+- [Hada Mono](https://type.hada0127.net/hada-mono) — 한글 코딩 고정폭 글꼴
+- [Hada Round](https://type.hada0127.net/hada-round) — 부드러운 둥근 산세리프
+- [Hada Condensed](https://type.hada0127.net/hada-condensed) — 좁은 공간의 한글 글꼴
+- [Hada Batang](https://type.hada0127.net/hada-batang) — 긴 글을 위한 바탕체
+- [Dancing Peoples](https://type.hada0127.net/dancing-peoples) — DANC 가변 글꼴
+- [Dancing Peoples Mono](https://type.hada0127.net/dancing-peoples-mono) — 가변 고정폭 글꼴
 
 ## CDN
 
@@ -55,4 +67,4 @@ webfont use.
 
 ## License
 
-The fonts are distributed under the SIL Open Font License 1.1.
+The fonts are distributed under the [SIL Open Font License 1.1](LICENSE.txt).
