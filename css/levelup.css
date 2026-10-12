@@ -1,0 +1,47 @@
+@font-face {
+  font-family: "LevelUp";
+  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.10.12/fonts/levelup/woff2/LevelUp-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "LevelUp";
+  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.10.12/fonts/levelup/woff2/LevelUp-SemiBold.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "LevelUp";
+  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.10.12/fonts/levelup/woff2/LevelUp-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "LevelUp";
+  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.10.12/fonts/levelup/woff2/LevelUp-Italic.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "LevelUp";
+  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.10.12/fonts/levelup/woff2/LevelUp-SemiBoldItalic.woff2") format("woff2");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "LevelUp";
+  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.10.12/fonts/levelup/woff2/LevelUp-BoldItalic.woff2") format("woff2");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
