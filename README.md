@@ -1,5 +1,18 @@
 # Hada Type
 
+Hada Type 무료 한글 폰트 — 미리보기·다운로드: https://type.hada0127.net
+
+Free Korean fonts by Hada Type — previews and downloads: https://type.hada0127.net
+
+- 하다 산스 · Hada Sans — https://type.hada0127.net/hada-sans
+- 하다 바탕 · Hada Batang — https://type.hada0127.net/hada-batang
+- 하다 모노 · Hada Mono — https://type.hada0127.net/hada-mono
+- 하다 라운드 · Hada Round — https://type.hada0127.net/hada-round
+- 하다 콘덴스드 · Hada Condensed — https://type.hada0127.net/hada-condensed
+- 춤추는사람들 · Dancing Peoples — https://type.hada0127.net/dancing-peoples
+- 춤추는사람들 고정폭 · Dancing Peoples Mono — https://type.hada0127.net/dancing-peoples-mono
+- 레벨업 · LevelUp — https://type.hada0127.net/levelup
+
 Public distribution files for Hada Type fonts.
 
 This repository contains completed font artifacts only. The source build
