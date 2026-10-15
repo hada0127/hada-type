@@ -1,17 +1,17 @@
 # Hada Type
 
-Hada Type 무료 한글 폰트 — 미리보기·다운로드: https://type.hada0127.net
+Hada Type 무료 한글 폰트 — 미리보기·다운로드: https://hada-type.com
 
-Free Korean fonts by Hada Type — previews and downloads: https://type.hada0127.net
+Free Korean fonts by Hada Type — previews and downloads: https://hada-type.com
 
-- 하다 산스 · Hada Sans — https://type.hada0127.net/hada-sans
-- 하다 바탕 · Hada Batang — https://type.hada0127.net/hada-batang
-- 하다 모노 · Hada Mono — https://type.hada0127.net/hada-mono
-- 하다 라운드 · Hada Round — https://type.hada0127.net/hada-round
-- 하다 콘덴스드 · Hada Condensed — https://type.hada0127.net/hada-condensed
-- 춤추는사람들 · Dancing Peoples — https://type.hada0127.net/dancing-peoples
-- 춤추는사람들 고정폭 · Dancing Peoples Mono — https://type.hada0127.net/dancing-peoples-mono
-- 레벨업 · LevelUp — https://type.hada0127.net/levelup
+- 하다 산스 · Hada Sans — https://hada-type.com/hada-sans
+- 하다 바탕 · Hada Batang — https://hada-type.com/hada-batang
+- 하다 모노 · Hada Mono — https://hada-type.com/hada-mono
+- 하다 라운드 · Hada Round — https://hada-type.com/hada-round
+- 하다 콘덴스드 · Hada Condensed — https://hada-type.com/hada-condensed
+- 춤추는사람들 · Dancing Peoples — https://hada-type.com/dancing-peoples
+- 춤추는사람들 고정폭 · Dancing Peoples Mono — https://hada-type.com/dancing-peoples-mono
+- 레벨업 · LevelUp — https://hada-type.com/levelup
 
 Public distribution files for Hada Type fonts.
 
@@ -24,20 +24,20 @@ through jsDelivr's GitHub CDN endpoint.
 Use a version-pinned URL:
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.10.13.1/css/hada-type.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.10.15/css/hada-type.css">
 ```
 
 Individual family CSS files:
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.10.13.1/css/hada-sans.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.10.13.1/css/hada-batang.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.10.13.1/css/hada-mono.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.10.13.1/css/hada-round.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.10.13.1/css/hada-condensed.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.10.13.1/css/dancing-peoples.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.10.13.1/css/dancing-peoples-mono.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.10.13.1/css/levelup.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.10.15/css/hada-sans.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.10.15/css/hada-batang.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.10.15/css/hada-mono.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.10.15/css/hada-round.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.10.15/css/hada-condensed.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.10.15/css/dancing-peoples.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.10.15/css/dancing-peoples-mono.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.10.15/css/levelup.css">
 ```
 
 Direct WOFF2 example:
@@ -45,7 +45,7 @@ Direct WOFF2 example:
 ```css
 @font-face {
   font-family: "Hada Sans";
-  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.10.13.1/fonts/hada-sans/woff2/HadaSans-Regular.woff2") format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type@v2026.10.15/fonts/hada-sans/woff2/HadaSans-Regular.woff2") format("woff2");
   font-weight: 400;
   font-display: swap;
 }
@@ -57,14 +57,14 @@ ZIP packages are attached to the GitHub release and split by format.
 
 | Family | TTF | OTF | WOFF2 |
 | --- | --- | --- | --- |
-| Hada Sans | [HadaSans-TTF.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.13.1/HadaSans-TTF.zip) | [HadaSans-OTF.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.13.1/HadaSans-OTF.zip) | [HadaSans-WOFF2.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.13.1/HadaSans-WOFF2.zip) |
-| Hada Batang | [HadaBatang-TTF.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.13.1/HadaBatang-TTF.zip) | [HadaBatang-OTF.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.13.1/HadaBatang-OTF.zip) | [HadaBatang-WOFF2.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.13.1/HadaBatang-WOFF2.zip) |
-| Hada Mono | [HadaMono-TTF.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.13.1/HadaMono-TTF.zip) | [HadaMono-OTF.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.13.1/HadaMono-OTF.zip) | [HadaMono-WOFF2.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.13.1/HadaMono-WOFF2.zip) |
-| Hada Round | [HadaRound-TTF.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.13.1/HadaRound-TTF.zip) | [HadaRound-OTF.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.13.1/HadaRound-OTF.zip) | [HadaRound-WOFF2.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.13.1/HadaRound-WOFF2.zip) |
-| Hada Condensed | [HadaCondensed-TTF.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.13.1/HadaCondensed-TTF.zip) | [HadaCondensed-OTF.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.13.1/HadaCondensed-OTF.zip) | [HadaCondensed-WOFF2.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.13.1/HadaCondensed-WOFF2.zip) |
-| Dancing Peoples | [DancingPeoples-TTF.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.13.1/DancingPeoples-TTF.zip) | [DancingPeoples-OTF.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.13.1/DancingPeoples-OTF.zip) | [DancingPeoples-WOFF2.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.13.1/DancingPeoples-WOFF2.zip) |
-| Dancing Peoples Mono | [DancingPeoplesMono-TTF.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.13.1/DancingPeoplesMono-TTF.zip) | [DancingPeoplesMono-OTF.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.13.1/DancingPeoplesMono-OTF.zip) | [DancingPeoplesMono-WOFF2.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.13.1/DancingPeoplesMono-WOFF2.zip) |
-| LevelUp | [LevelUp-TTF.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.13.1/LevelUp-TTF.zip) | [LevelUp-OTF.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.13.1/LevelUp-OTF.zip) | [LevelUp-WOFF2.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.13.1/LevelUp-WOFF2.zip) |
+| Hada Sans | [HadaSans-TTF.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.15/HadaSans-TTF.zip) | [HadaSans-OTF.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.15/HadaSans-OTF.zip) | [HadaSans-WOFF2.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.15/HadaSans-WOFF2.zip) |
+| Hada Batang | [HadaBatang-TTF.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.15/HadaBatang-TTF.zip) | [HadaBatang-OTF.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.15/HadaBatang-OTF.zip) | [HadaBatang-WOFF2.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.15/HadaBatang-WOFF2.zip) |
+| Hada Mono | [HadaMono-TTF.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.15/HadaMono-TTF.zip) | [HadaMono-OTF.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.15/HadaMono-OTF.zip) | [HadaMono-WOFF2.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.15/HadaMono-WOFF2.zip) |
+| Hada Round | [HadaRound-TTF.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.15/HadaRound-TTF.zip) | [HadaRound-OTF.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.15/HadaRound-OTF.zip) | [HadaRound-WOFF2.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.15/HadaRound-WOFF2.zip) |
+| Hada Condensed | [HadaCondensed-TTF.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.15/HadaCondensed-TTF.zip) | [HadaCondensed-OTF.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.15/HadaCondensed-OTF.zip) | [HadaCondensed-WOFF2.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.15/HadaCondensed-WOFF2.zip) |
+| Dancing Peoples | [DancingPeoples-TTF.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.15/DancingPeoples-TTF.zip) | [DancingPeoples-OTF.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.15/DancingPeoples-OTF.zip) | [DancingPeoples-WOFF2.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.15/DancingPeoples-WOFF2.zip) |
+| Dancing Peoples Mono | [DancingPeoplesMono-TTF.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.15/DancingPeoplesMono-TTF.zip) | [DancingPeoplesMono-OTF.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.15/DancingPeoplesMono-OTF.zip) | [DancingPeoplesMono-WOFF2.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.15/DancingPeoplesMono-WOFF2.zip) |
+| LevelUp | [LevelUp-TTF.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.15/LevelUp-TTF.zip) | [LevelUp-OTF.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.15/LevelUp-OTF.zip) | [LevelUp-WOFF2.zip](https://github.com/hada0127/hada-type/releases/download/v2026.10.15/LevelUp-WOFF2.zip) |
 
 Each ZIP includes `WEBFONT-USAGE.txt`, `LICENSE.txt`, and
 `COPYRIGHT.txt`. WOFF2 ZIPs also include `WEBFONT.css` for self-hosted
